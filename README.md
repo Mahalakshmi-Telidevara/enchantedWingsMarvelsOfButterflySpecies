@@ -39,13 +39,18 @@ with zipfile.ZipFile("your_zipped_file.zip", 'r') as zip_ref:
       ~ Build and train the CNN model
       ~ Evaluate model performance
       ~ Make predictions on test images
+
 ## 📁 Project Structure
 
-├── train/ # Training images
-├── test/ # Testing images
-├── Training_set.csv # Training labels
-├── Testing_set.csv # Testing labels
-├── butterfly_classification.ipynb # CNN model notebook
+```
+project-root/
+├── train/                                         # Training images
+├── test/                                          # Testing images
+├── Training_set.csv                               # Training labels
+├── Testing_set.csv                                # Testing labels
+├── enchantedWingsMarvelsOfButterflySpecies.ipynb  # CNN model notebook
+```
+
 
 ## 📧 Contact
 Feel free to contact me for any questions, suggestions, or collaboration opportunities:
