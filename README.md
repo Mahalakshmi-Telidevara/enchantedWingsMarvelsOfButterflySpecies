@@ -54,6 +54,8 @@ project-root/
 
 ## 📧 Contact
 Feel free to contact me for any questions, suggestions, or collaboration opportunities:
+```
 👩‍💻 Name: Telidevara S V S Kanaka Mahalakshmi
 📩 Mail ID: srikanakamahalakshmitelidevara@gmail.com
+```
 
